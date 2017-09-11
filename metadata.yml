@@ -1,0 +1,12 @@
+name: add_two_to_it
+workflow_authors:
+ - Aaron Virshup: Autodesk Research
+contributors:
+ - "@avirshup"
+description: Add 2 to integer, float, or complex number.
+methods: |
+   Part of molflow tutorials: A brief introduction to creating your own workflows.
+citations:
+  - molsim.bionano.autodesk.com
+keywords:
+  - onboarding
